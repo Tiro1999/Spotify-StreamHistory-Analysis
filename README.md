@@ -38,7 +38,7 @@ results/
   overview/                       # Jahresübergreifende Plots
   <year>/                         # Plots pro Jahr
 res/                     
-  /2026-04-13_my_spotify_data     # Spotify Exportdaten (gitignored) - extrahierte zip files
+  /2026-04-13_my_spotify_data     # Spotify Exportdaten (gitignored) - extrahierte .zip
 ```
 
 ## Konfiguration
