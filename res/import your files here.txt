@@ -1,0 +1,3 @@
+Here you need to add the extracted folder from the zip as source (Default path from the data loader)
+
+my_spotify_data/Spotify Extended Streaming History
