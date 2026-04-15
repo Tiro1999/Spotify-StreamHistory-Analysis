@@ -10,7 +10,7 @@ from pathlib import Path
 # ============================================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = PROJECT_ROOT / "res" / "2026-04-13_my_spotify_data" / "Spotify Extended Streaming History"
+DATA_DIR = PROJECT_ROOT / "res" / "Spotify Extended Streaming History"
 RESULTS_DIR = PROJECT_ROOT / "results"
 
 # ============================================================================

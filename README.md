@@ -25,20 +25,20 @@ pip install -r requirements.txt
 
 ```
 src/
-  config.py                       # Globale Einstellungen (Pfade, Top-N, Farben, etc.)
-  data_loader.py                  # Daten laden & aufbereiten
-  requirements.txt                # Python Dependencies
+  config.py                           # Globale Einstellungen (Pfade, Top-N, Farben, etc.)
+  data_loader.py                      # Daten laden & aufbereiten
+  requirements.txt                    # Python Dependencies
   notebooks/
-    01_overview.ipynb             # Gesamtübersicht (Stunden, Artists, Tracks)
-    02_yearly_trends.ipynb        # Monatliche Trends, Rolling Averages
-    03_top_artists_tracks.ipynb   # Top Artists & Tracks pro Jahr
-    04_listening_patterns.ipynb   # Heatmaps, Tageszeit, Platform, Skip-Rate
-    05_genre_analysis.ipynb       # Genre-Analyse (benötigt Spotify API)
+    01_overview.ipynb                 # Gesamtübersicht (Stunden, Artists, Tracks)
+    02_yearly_trends.ipynb            # Monatliche Trends, Rolling Averages
+    03_top_artists_tracks.ipynb       # Top Artists & Tracks pro Jahr
+    04_listening_patterns.ipynb       # Heatmaps, Tageszeit, Platform, Skip-Rate
+    05_genre_analysis.ipynb           # Genre-Analyse (benötigt Spotify API)
 results/
-  overview/                       # Jahresübergreifende Plots
-  <year>/                         # Plots pro Jahr
+  overview/                           # Jahresübergreifende Plots
+  <year>/                             # Plots pro Jahr
 res/                     
-  /2026-04-13_my_spotify_data     # Spotify Exportdaten (gitignored) - extrahierte .zip
+  /Spotify Extended Streaming History # Spotify Exportdaten (gitignored) - extrahierte .zip
 ```
 
 ## Konfiguration
