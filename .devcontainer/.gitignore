@@ -1,0 +1,15 @@
+# Spotify Rohdaten (privat)
+res/*_my_spotify_data/
+
+# Ergebnisse auto-gen (privat)
+results/*/
+
+# Python
+src/venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Spotify API Credentials
+.env
+src/.genre_cache.json
