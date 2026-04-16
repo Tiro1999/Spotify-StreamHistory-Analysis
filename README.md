@@ -39,6 +39,7 @@ results/
   <year>/                             # Plots pro Jahr
 res/                     
   /Spotify Extended Streaming History # Spotify Exportdaten (gitignored) - extrahierte .zip
+.env                                  # Spotify Dev App Credentials
 ```
 
 ## Konfiguration
